@@ -1,0 +1,5 @@
+$: s("[bd <hh oh>]*2")
+    .bank("tr909")
+    .dec(.4)
+    .fast(2)
+    .room(0.7)
